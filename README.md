@@ -1,4 +1,4 @@
-# **Exercise 2: Sitemaps and Wireframes**
+# **Exercise 3: Sitemaps and Wireframes**
 
 **Due Date:** February 10, 2025 (in lab or by the end of the day)  
 **Total Marks:** 100  
